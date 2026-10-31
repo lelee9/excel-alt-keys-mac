@@ -25,6 +25,10 @@
 
 `AltKeysLite` is a lightweight, **100% offline**, single-file native macOS menu bar utility written in Swift. Press `Option (⌥)` in Microsoft Excel for Mac just like pressing `Alt` on Windows — floating KeyTip badges appear over the Excel ribbon and menus, letting you navigate and trigger commands at full keyboard speed.
 
+<p align="center">
+  <img src="./AltKeysLite_Live_Demo.gif" alt="AltKeysLite Live Demo on Mac Excel" width="100%" />
+</p>
+
 ## Feedback & Suggestions
 
 Have a shortcut request, found a bug, or want to suggest an improvement? Feel free to open an [**Issue**](https://github.com/lelee9/excel-alt-keys-mac/issues) or start a [**Discussion**](https://github.com/lelee9/excel-alt-keys-mac/discussions)!
