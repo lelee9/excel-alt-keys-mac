@@ -1,14 +1,34 @@
-# AltKeysLite for Mac (`excel-alt-keys-mac`)
+<p align="center">
+  <img src="./logo.jpg" alt="AltKeysLite for Mac Logo" width="220" style="border-radius: 36px;" />
+</p>
 
-**Windows-style `Alt` (`Option ⌥`) ribbon shortcuts & visual KeyTip badges for Microsoft Excel on macOS.**
+<h1 align="center">AltKeysLite for Mac (<code>excel-alt-keys-mac</code>)</h1>
 
-`AltKeysLite` is a lightweight, **100% offline**, single-file native macOS menu bar utility written in Swift. Press `Option (⌥)` in Microsoft Excel for Mac just like pressing `Alt` on Windows — floating KeyTip badges appear over the Excel ribbon and menus, letting you navigate and trigger commands at full keyboard speed.
+<p align="center">
+  <b>Windows-style <code>Alt</code> (<code>Option ⌥</code>) ribbon shortcuts &amp; visual KeyTip badges for Microsoft Excel on macOS.</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/lelee9/excel-alt-keys-mac/releases/latest/download/AltKeysLite_Mac_Universal.zip">
+    <img src="https://img.shields.io/badge/Download-Universal_macOS_App_(v1.0.0)-2ea44f?style=for-the-badge&logo=apple&logoColor=white" alt="Download Universal macOS App" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Platform-macOS_11.0%2B_(Apple_Silicon)_%7C_13.0%2B_(Intel)-000000?style=flat-square&logo=apple" alt="Platform" />
+  <img src="https://img.shields.io/badge/Language-Swift_5-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/Privacy-100%25_Offline-brightgreen?style=flat-square" alt="100% Offline" />
+  <img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="MIT License" />
+</p>
 
 ---
 
+`AltKeysLite` is a lightweight, **100% offline**, single-file native macOS menu bar utility written in Swift. Press `Option (⌥)` in Microsoft Excel for Mac just like pressing `Alt` on Windows — floating KeyTip badges appear over the Excel ribbon and menus, letting you navigate and trigger commands at full keyboard speed.
+
 ## Feedback & Suggestions
 
-Feedback, bug reports, and feature suggestions are welcome and greatly appreciated. If you encounter any issues or have ideas to improve the tool, please feel free to open an issue in the [Issues tab](https://github.com/lelee9/excel-alt-keys-mac/issues) or submit your thoughts.
+Have a shortcut request, found a bug, or want to suggest an improvement? Feel free to open an [**Issue**](https://github.com/lelee9/excel-alt-keys-mac/issues) or start a [**Discussion**](https://github.com/lelee9/excel-alt-keys-mac/discussions)!
+
 ---
 
 ## Download
