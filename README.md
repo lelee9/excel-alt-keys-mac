@@ -6,6 +6,11 @@
 
 ---
 
+## Feedback & Suggestions
+
+Feedback, bug reports, and feature suggestions are welcome and greatly appreciated. If you encounter any issues or have ideas to improve the tool, please feel free to open an issue in the [Issues tab](https://github.com/lelee9/excel-alt-keys-mac/issues) or submit your thoughts.
+---
+
 ## Download
 
 👉 **[Download Latest Universal macOS App (`AltKeysLite_Mac_Universal.zip`)](https://github.com/lelee9/excel-alt-keys-mac/releases/latest/download/AltKeysLite_Mac_Universal.zip)**
